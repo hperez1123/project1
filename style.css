@@ -3,6 +3,8 @@ body {
   margin: 0 auto
 }
 
-.hero {
-
+div{
+  color: red;
+  border: 1px;
+  color: black;
 }
